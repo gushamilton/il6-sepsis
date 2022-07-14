@@ -5,5 +5,6 @@ This Github contains the code and underlying data for the IL-6 and sepsis manusc
 It contains
 
 1. Underlying data (in data folder)
-2. Underlying code (in code folder)
-3. QQ and Manhattan plots for GWAS (in GWAS folder)
+2. QQ and Manhattan plots for GWAS (in GWAS folder)
+
+I have not included code as using the TwoSampleMR package it is as simple as running mr(dat) on the harmonised data. And then visualising and plotting can be done on these results.
